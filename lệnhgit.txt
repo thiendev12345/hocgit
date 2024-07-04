@@ -1,0 +1,3 @@
+lệnh git:
+*ghi nhớ:
+	-pull trc push sau
